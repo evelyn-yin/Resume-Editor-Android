@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_a6ad2b57a3416b899d470f966ac0b18fd768266f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_89c2fee19e50de2cc6f8ddb9d3b0710823dc69d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_82cc74ae2fe135e2ea7feeda8cef9403ccadaead/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_ee952c7bcf0d1e8c7c5044ae14e37a0962d1f0e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_13d09ac4856c9a5b6f9e659e1d1e6cfe7d5486f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1e98a1544eae2ab8c395acc24432898c51650037">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2c110329a8d0edc6c191fbb85b3863bff111b665/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a7b56e27b5980a636354b376f919d2b8786343dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_d757558c1bb94a000b0e254227762cc5bea375df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="86579aeeb17333ba33099c47d87858e0a478ed96">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab3d8f93e8c3e62fa62dc9d3843867faae16e672/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/AndroidStudioProjects/AwesomeResume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c987350f95ee891613808a8e4b2497f416abd8b">
+        <dex dex="/Users/guojing/AndroidStudioProjects/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3365f02cd7e4e50e2b44c0e9829d76997ab271ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_9536c0b20440d0dc0f73c4b14bc5775f81a33bf3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/guojing/Downloads/Android_Chap2_20160820/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_99712ea18f549ccdf69db15f1b8fda6f5a85beb2/classes.dex" />
+    </item>
+
+</items>
